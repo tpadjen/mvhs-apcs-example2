@@ -23,6 +23,7 @@
 * rm --cached -> remove file from stage
 * git commit -m "Present tense description of what changed"
 * git log -> Enter to move down, q to quit
+* git checkout -- filename  -> discard changes
 
 ## Problems
 * commit without -m -> Use Esc :wq to quit Vim
